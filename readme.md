@@ -139,7 +139,7 @@ After that, you coins should appear on the main page.
 
 
 
-**Donate**
+# **Donate**
 If you find this script is useful then consider donate please
 
 Bitcoin 36WA1WESULub6Q434bQcnmpnk62oLD7vuQ
