@@ -3,7 +3,7 @@
 Live version: https://trade.multicoins.org/
 
 
-Step-by-step install instructions:
+## Step-by-step install instructions:
 
 1. Register on the VPS hosting like this https://m.do.co/c/1ece5d76d5cd
 2. Create "Droplet" Ubuntu 16 x64 / 1GB / 1vCPU / 25 GB SSD
